@@ -21,3 +21,9 @@ Files:
     
     
     El archivo .esv no lo pongo porque ahi pones tu pin secreto de tu Bot.
+
+Estoy siguendo este tutorial: 
+
+https://www.youtube.com/watch?v=gzM7kj6gV5I 
+
+[![Everything Is AWESOME](https://i.ytimg.com/vi/gzM7kj6gV5I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gzM7kj6gV5I )
