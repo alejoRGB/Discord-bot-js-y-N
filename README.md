@@ -10,17 +10,19 @@ esketch de processing medianta las reacciones de los chats de Discord.
 
 Files:
 
--bot app prueba:
-    -node_modules (carpeta)
-    -.env
-    -.env.sample
-    -.eslintrc.js 
-    -index.js
-    -package.json
-    -package-lock.json
+-**bot app prueba:
+    -node_modules (carpeta)    <br />
+    -.env <br />
+    -.env.sample <br />
+    -.eslintrc.js <br />
+    -index.js <br />
+    -package.json <br />
+    -package-lock.json <br />**
     
     
     El archivo .esv no lo pongo porque ahi pones tu pin secreto de tu Bot.
+    node_modules (carpeta) es una carpeta que tiene los archivos
+    de la librería discord.js y otras
 
 Estoy siguendo este tutorial: 
 
